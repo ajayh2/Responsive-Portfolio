@@ -9,7 +9,7 @@ body {
   font-size: 18px;
   line-height: 34px;
   color: #777777;
-  background: url("../images/concrete_seamless.png");
+  background: url("../images/gray.jpeg");
 }
 
 * {
@@ -245,7 +245,9 @@ input[type=submit] {
   #masthead{
     width:100%;
   }
-  
+  .main-section{
+  background-color: black;
+  }
   #logo{
     width: 100%;
   }
